@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bokedal
 
 _A project built with Vite, React, TypeScript, and SASS._
@@ -75,3 +76,7 @@ Developed by **Fredrik Hänninen**
 
 ---
 ---
+=======
+# grupp-vning-react
+Group exercise 
+>>>>>>> 95b65f4369a4835ebc62ff012f1a660051e4f22f
