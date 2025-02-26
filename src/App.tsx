@@ -1,7 +1,12 @@
 import "./App.scss";
+import { FishCards } from "./Widgets/FishCards/FishCards";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <FishCards />
+    </>
+  );
 }
 
 export default App;

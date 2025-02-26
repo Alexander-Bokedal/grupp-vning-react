@@ -1,0 +1,35 @@
+.cardWrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  .card {
+    border: 2px solid black;
+    padding: 10px;
+    height: 200px;
+    width: auto;
+    background-color: aqua;
+    color: black;
+    border-radius: 50%;
+    .type {
+      margin: 0;
+      padding: 0;
+    }
+    .attributes {
+      display: flex;
+      justify-content: center;
+      .fins {
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+        font-size: 1em;
+        font-weight: normal;
+      }
+      .finsResult {
+        margin: 0;
+        padding: 0;
+        margin-top: 10px;
+        margin-left: 10px;
+      }
+    }
+  }
+}
